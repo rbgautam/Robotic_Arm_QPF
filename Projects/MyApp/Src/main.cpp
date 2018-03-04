@@ -116,10 +116,10 @@ int main(void)
     
 //    //Goto BSP/STM32f4xx_nucleo.h #define SERVOn to see all servo implementations 
 //    
-//    #define SERVO1_PIN                                GPIO_PIN_6
-//    #define SERVO2_PIN                                GPIO_PIN_7
-//    #define SERVO3_PIN                                GPIO_PIN_8
-//    #define SERVO4_PIN                                GPIO_PIN_9
+//    #define SERVO1_PIN                                GPIO_PIN_6 //(CLAW)
+//    #define SERVO2_PIN                                GPIO_PIN_7 //(FORWARD/BACKWARD)
+//    #define SERVO3_PIN                                GPIO_PIN_8 //(UP/DOWN)
+//    #define SERVO4_PIN                                GPIO_PIN_9 //(LEFT/RIGHT)
 //
 //    #define SERVO_GPIO_PORT                          GPIOB
     
