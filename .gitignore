@@ -4,3 +4,5 @@ Drivers/BSP/STM32F4xx-Nucleo/STM32F4xx_Nucleo_BSP_User_Manual.chm
 Drivers/CMSIS/Device/ST/STM32F4xx/Release_Notes.html
 Drivers/CMSIS/index.html
 Projects/MyApp/EWARM/STM32F4xx-Nucleo/Obj/
+Projects/MyApp/EWARM/STM32F4xx-Nucleo/List/Project.map
+Projects/MyApp/EWARM/STM32F4xx-Nucleo/Exe/Project.out

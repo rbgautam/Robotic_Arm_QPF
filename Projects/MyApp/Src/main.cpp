@@ -112,7 +112,17 @@ int main(void)
     QF::poolInit(evtPoolLarge, sizeof(evtPoolLarge), EVT_SIZE_LARGE);
     QP::QF::psInit(subscrSto, Q_DIM(subscrSto)); // init publish-subscribe
     // Initialize BSP include HAL.
-    BspInit();    
+    BspInit();   
+    
+//    //Goto BSP/STM32f4xx_nucleo.h #define SERVOn to see all servo implementations 
+//    
+//    #define SERVO1_PIN                                GPIO_PIN_6
+//    #define SERVO2_PIN                                GPIO_PIN_7
+//    #define SERVO3_PIN                                GPIO_PIN_8
+//    #define SERVO4_PIN                                GPIO_PIN_9
+//
+//    #define SERVO_GPIO_PORT                          GPIOB
+    
     
     // Start active objects.
     uart2Act.Start(PRIO_UART2_ACT);
