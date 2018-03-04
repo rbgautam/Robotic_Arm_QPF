@@ -6,3 +6,7 @@ Drivers/CMSIS/index.html
 Projects/MyApp/EWARM/STM32F4xx-Nucleo/Obj/
 Projects/MyApp/EWARM/STM32F4xx-Nucleo/List/Project.map
 Projects/MyApp/EWARM/STM32F4xx-Nucleo/Exe/Project.out
+Projects/MyApp/EWARM/settings/Project.STM32F4xx-Nucleo.general.xcl
+Projects/MyApp/EWARM/Project.dep
+Projects/MyApp/EWARM/settings/Project.STM32F4xx-Nucleo.cspy.bat
+Projects/MyApp/EWARM/settings/Project.wsdt
