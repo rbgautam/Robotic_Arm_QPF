@@ -335,6 +335,7 @@
           <state>$PROJ_DIR$\..\Src\Traffic\Lamp</state>
           <state>$PROJ_DIR$\..\Src\RobotArm</state>
           <state>$PROJ_DIR$\..\Src\RobotArm\Motor</state>
+          <state>$PROJ_DIR$\..\Src\TouchBtn</state>
         </option>
         <option>
           <name>CCStdIncCheck</name>
@@ -1553,6 +1554,15 @@
         </file>
         <file>
           <name>$PROJ_DIR$\..\Src\System\Test.h</name>
+        </file>
+      </group>
+      <group>
+        <name>TouchBtn</name>
+        <file>
+          <name>$PROJ_DIR$\..\Src\TouchBtn\TouchBtn.cpp</name>
+        </file>
+        <file>
+          <name>$PROJ_DIR$\..\Src\TouchBtn\TouchBtn.h</name>
         </file>
       </group>
       <group>
