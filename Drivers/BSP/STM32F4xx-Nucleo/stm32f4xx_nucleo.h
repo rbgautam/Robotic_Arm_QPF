@@ -74,16 +74,8 @@ typedef enum
   LED2 = 0
 }Led_TypeDef;
 
-typedef enum 
-{
-  SERVO1 = 0,
-  SERVO2 = 1,
-  SERVO3 = 2,
-  SERVO4 = 3
-}Servo_TypeDef;
 
 
-  
     
 typedef enum 
 {  
@@ -107,6 +99,25 @@ typedef enum
   JOY_RIGHT = 4,
   JOY_UP    = 5
 }JOYState_TypeDef;
+
+
+
+typedef enum 
+{
+  SERVO1 = 0,
+  SERVO2 = 1,
+  SERVO3 = 2,
+  SERVO4 = 3
+}Servo_TypeDef;
+
+
+typedef enum 
+{
+  TOUCH_BUTTON1 = 0,
+  TOUCH_BUTTON2 = 1,
+  TOUCH_BUTTON3 = 2,
+  TOUCH_BUTTON4 = 3
+}TouchBtn_TypeDef;
 
 /**
   * @}

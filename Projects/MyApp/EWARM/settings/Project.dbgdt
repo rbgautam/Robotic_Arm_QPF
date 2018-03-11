@@ -51,7 +51,7 @@
           
         <item>e</item></QWatchHistory>
       </QuickWatch>
-    <WATCH_1><expressions><item>GPIO_NUMBER</item><item></item></expressions><col-names><item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names><col-widths><item>100</item><item>150</item><item>100</item><item>244</item></col-widths></WATCH_1></Static>
+    <WATCH_1><expressions><item>GPIO_NUMBER</item><item/></expressions><col-names><item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names><col-widths><item>100</item><item>150</item><item>100</item><item>244</item></col-widths></WATCH_1></Static>
     <Windows>
       
       

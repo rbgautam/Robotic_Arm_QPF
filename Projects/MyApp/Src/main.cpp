@@ -47,6 +47,7 @@
 #include "Demo.h"
 #include "RobotArmUserCtrl.h"
 #include "Robotarm.h"
+#include "TouchBtn.h"
 #include "event.h"
 #include "bsp.h"
 #include "qpcpp.h"
